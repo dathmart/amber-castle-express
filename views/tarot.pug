@@ -1,0 +1,11 @@
+extends layout.pug
+
+block content
+    section#content
+        h2= text
+        if hint
+            p
+                i Hint: #{hint}
+        a(href=`${id}?side=${sideShown}`)= showSide
+        br
+        a(href=`/tarots`) Wild Card

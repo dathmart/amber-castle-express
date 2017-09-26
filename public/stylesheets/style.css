@@ -1,0 +1,20 @@
+body {
+    background-color: rgba(255, 191, 0, 0.9);
+}
+button.pattern {
+    font-family: 'Times New Roman';
+    font-size: 1em;
+    border-width: 4px;
+    border-radius: 4px;
+    background-color: rgba(0, 168, 107, 0.4);
+}
+div.trump {
+    position: relative;
+    top: 20%;
+    left: 30%;
+}
+
+a #tarots {
+    font-size: 200%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

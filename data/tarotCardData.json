@@ -1,0 +1,37 @@
+{
+    "data": {
+        "title": "Amber Tarot Cards",
+        "tarots": [
+            {
+                "question": "What did Corwin lose before being thrown in the dungeons of Amber?",
+                "hint": "The answer lies within 'the greyest cell'",
+                "answer": "His eyes"
+            },
+            {
+                "question": "Where did Corwin restore his memories?",
+                "hint": "The state of the true world is reflected there",
+                "answer": "Rebma"
+            },
+            {
+                "question": "What is the name of Corwin's silver blade?",
+                "hint": "Sounds like: 'a dreary color' + 'a bird' + 'an even-toed ungulate'",
+                "answer": "Grayswandir"
+            },
+            {
+                "question": "What trial must a child of Amber pass to gain power over Shadows?",
+                "hint": "There are three within the entirety of reality",
+                "answer": "The Pattern"
+            },
+            {
+                "question": "What did Corwin survive when he was first banished to the shadow Earth?",
+                "hint": "'Bring out your dead!'",
+                "answer": "The Plague"
+            },
+            {
+                "question": "With whom did Corwin first return to Amber?",
+                "hint": "His name is like his character",
+                "answer": "Random"
+            }
+        ]
+    }
+}
